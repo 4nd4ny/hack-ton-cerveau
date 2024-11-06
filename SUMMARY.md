@@ -1,7 +1,7 @@
 # Table of contents
 
-* [eBook gratuit](README.md)
-* [H@ck ton Cerveau : Le Guide Ultime pour Réussir ta Matu avec Style.](<0. Titre.md>)
+* [H@ck ton Cerveau : Le Guide Ultime pour Réussir ta Matu avec Style.](<0a. Titre.md>)
+* [Table des matières](<0b. Table des matieres.md>)
 * [1. Profils d'Apprentissage](<1. Profils apprentissage.md>)
 * [2. Savoir qui je suis](<2. Savoir qui je suis.md>)
 * [3. Dix méthodes de travail "clé en main"](<3. Methodes de travail.md>)
@@ -64,3 +64,4 @@
 * [6. Conclusion](<6. Conclusion.md>)
 * [7. Epilogue](<7. Epilogue.md>)
 * [8. Bibliographie](<8. Bibliographie.md>)
+* [Licence Creative Commons](9. Lience Creative Commons.md)
