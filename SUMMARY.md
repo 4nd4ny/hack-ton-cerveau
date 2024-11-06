@@ -64,4 +64,4 @@
 * [6. Conclusion](<6. Conclusion.md>)
 * [7. Epilogue](<7. Epilogue.md>)
 * [8. Bibliographie](<8. Bibliographie.md>)
-* [Licence Creative Commons](<9. Lience Creative Commons.md>)
+* [Licence Creative Commons](<9. Licence Creative Commons.md>)
